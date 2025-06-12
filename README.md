@@ -1,2 +1,3 @@
-# javascript-fundamentals
-JavaScript Fundamentals
+# JavaScript Fundamentals
+
+- index.html
